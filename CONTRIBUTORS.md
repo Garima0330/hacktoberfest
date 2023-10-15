@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+  #### Name: [Garima Barthwal](https://github.com/Garima0330)
+- Place: Uttarakhand, India
+- Bio: Software Developer
+- GitHub: [vish21](https://github.com/Garima0330)
